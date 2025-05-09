@@ -6,4 +6,8 @@
 https://github.com/maxproultimate/video/raw/refs/heads/main/segment_000.ts
 #EXTINF:3.333333,
 https://github.com/maxproultimate/video/raw/refs/heads/main/segment_001.ts
+#EXTINF:16.666667,
+https://github.com/maxproultimate/video/raw/refs/heads/main/segment_000.ts
+#EXTINF:3.333333,
+https://github.com/maxproultimate/video/raw/refs/heads/main/segment_001.ts
 #EXT-X-ENDLIST
